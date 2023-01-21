@@ -14,6 +14,8 @@ public class MyCamSpace : ModuleRules
             "Engine",
             "InputCore",
             "EnhancedInput",
+            "Paper2D",
+            "PaperZD",
         });
 
         PrivateDependencyModuleNames.AddRange(new string[] { });
