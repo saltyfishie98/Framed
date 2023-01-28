@@ -85,6 +85,8 @@ void AMainPlayerController::EndJump()
 
 void AMainPlayerController::Move(const FInputActionValue& Value)
 {
+    UE_LOG(LogTemp, Log, TEXT("Moving!"),);
+
     if (!m_Character)
         return;
 
