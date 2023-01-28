@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class MyCamSpace : ModuleRules
+public class Framed : ModuleRules
 {
-    public MyCamSpace(ReadOnlyTargetRules Target) : base(Target)
+    public Framed(ReadOnlyTargetRules Target) : base(Target)
     {
         PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 

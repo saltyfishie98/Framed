@@ -8,7 +8,7 @@
 #include "MainPlayerController.generated.h"
 
 UCLASS()
-class MYCAMSPACE_API AMainPlayerController : public APlayerController
+class FRAMED_API AMainPlayerController : public APlayerController
 {
     GENERATED_BODY()
 

@@ -10,7 +10,7 @@
  *
  */
 UCLASS()
-class MYCAMSPACE_API ATwoDimCharacter : public APaperZDCharacter
+class FRAMED_API ATwoDimCharacter : public APaperZDCharacter
 {
     GENERATED_BODY()
 };
